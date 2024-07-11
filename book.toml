@@ -1,0 +1,6 @@
+[book]
+authors = ["eric.chen"]
+language = "en"
+multilingual = false
+src = "src"
+title = "hello world 001"
